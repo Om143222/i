@@ -1,0 +1,39 @@
+body
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: green;
+}
+ 
+.header_div
+{
+    background: white;
+    color: green;
+}
+
+.header_div p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: #6c200d;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #f5f1f9;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149)
+}
